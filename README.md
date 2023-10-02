@@ -140,7 +140,7 @@ statement with the help of an example.\
 statement with the help of an example using three loops (while, DO While and For 
 Loop).\
 **Question 37:** Write a C language program to explain the continue statement with the help of an example using three loops (while, DO While and For 
-Loop).
+Loop).\
 **Question 38:** Write a  C language program to determine the sum 
 of the following harmonic series for a given value of n 
 1+1/2+1/3+…….+1/n \
@@ -159,7 +159,13 @@ number and their sum.\
 **Question 44:** Write a C language program to print an even number 
 between 50 and 100 using three loops (while, DO While, and For Loop). \
 **Question 45:** Write a C language program to find the number of 
-and the sum of all integers greater than 100 and less than 200 that are divisible by 7.
+and the sum of all integers greater than 100 and less than 200 that are divisible by 7.\
+**Questions 46:** Wite a C language program to perform bubble sort.\
+**Questions 46:** Wite a C language program to perform selection sort.\
+**Questions 46:** Wite a C language program to perform insertion sort.\
+**Questions 46:** Wite a C language program to perform heap sort.\
+**Questions 46:** Wite a C language program to perform merge sort.\
+**Questions 46:** Wite a C language program to perform guick sort.\
 
 Feel free to add more questions and solutions as you see fit.
 
