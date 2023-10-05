@@ -1,5 +1,5 @@
 //program to print radian value of the given degree//
-#include<stdio.h>
+#include<stdio.h>//it is standrd library of 
 #include<math.h>
 int main()
 {
